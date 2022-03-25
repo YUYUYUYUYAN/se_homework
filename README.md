@@ -1,2 +1,9 @@
 # se_homework
-Used to submit software engineering jobs
+仓库用途：存放软件工程课程每周作业
+
+学生信息：
+
+姓名：龙语嫣
+学号：41911038
+班级：计科一班
+上课时间：周一上午一二三节
